@@ -2,6 +2,8 @@
 
 > ポプテピピックの画像をランダムで取得
 
+![screenshot](media/media.png)
+
 ## Installation
 
 ```
