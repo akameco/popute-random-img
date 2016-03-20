@@ -1,0 +1,33 @@
+{
+  "name": "popute-random-img",
+  "version": "0.0.1",
+  "description": "プテピピックの画像をランダムで取得",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "bin": {
+    "popute-img": "cli.js",
+    "ppt-img": "cli.js"
+  },
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.2.0",
+    "popute": "0.0.1",
+    "term-img": "^0.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "xo": "^0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akameco/popute-random-img.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akameco/popute-random-img/issues"
+  },
+  "homepage": "https://github.com/akameco/popute-random-img#readme"
+}
