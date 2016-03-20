@@ -2,11 +2,12 @@
 const got = require('got');
 const cheerio = require('cheerio');
 const popute = require('popute');
+const shuffle = require('lodash.shuffle');
 
 module.exports = () =>
 	popute()
 		.then(urls => {
-			return urls[Math.floor(Math.random() * urls.length)];
+			return shuffle(urls)[0];
 		}).then(url =>
 			got(url).then(res => {
 				const $ = cheerio.load(res.body);

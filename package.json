@@ -15,6 +15,7 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "got": "^6.2.0",
+    "lodash.shuffle": "^4.0.0",
     "popute": "0.0.1",
     "term-img": "^0.2.0"
   },
