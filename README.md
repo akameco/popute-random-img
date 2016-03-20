@@ -1,6 +1,6 @@
 # popute-random-img [![Build Status](https://travis-ci.org/akameco/popute-random-img.svg?branch=master)](https://travis-ci.org/akameco/popute-random-img)
 
-> プテピピックの画像をランダムで取得
+> ポプテピピックの画像をランダムで取得
 
 ## Installation
 
