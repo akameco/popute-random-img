@@ -4,8 +4,8 @@ const cheerio = require('cheerio');
 const popute = require('popute');
 const shuffle = require('lodash.shuffle');
 
-module.exports = () =>
-	popute()
+module.exports = () => {
+	return popute()
 		.then(urls => {
 			return shuffle(urls)[0];
 		}).then(url =>
@@ -20,3 +20,4 @@ module.exports = () =>
 		).catch(e => {
 			console.log(e);
 		});
+}
