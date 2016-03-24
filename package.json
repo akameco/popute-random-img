@@ -1,6 +1,6 @@
 {
   "name": "popute-random-img",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "プテピピックの画像をランダムで取得",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "cheerio": "^0.20.0",
     "got": "^6.2.0",
     "lodash.shuffle": "^4.0.0",
-    "popute": "0.0.1",
+    "popute": "0.0.2",
     "term-img": "^0.2.0"
   },
   "devDependencies": {
