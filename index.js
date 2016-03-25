@@ -2,7 +2,7 @@
 const got = require('got');
 const cheerio = require('cheerio');
 const popute = require('popute');
-const shuffle = require('lodash.shuffle');
+const shuffle = require('array-shuffle');
 
 module.exports = () => {
 	return popute()

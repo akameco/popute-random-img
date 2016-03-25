@@ -13,9 +13,9 @@
   "author": "akameco <akameco.t@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "array-shuffle": "^1.0.0",
     "cheerio": "^0.20.0",
     "got": "^6.2.0",
-    "lodash.shuffle": "^4.0.0",
     "popute": "^0.0.3",
     "term-img": "^0.2.0"
   },
