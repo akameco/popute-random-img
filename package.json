@@ -1,6 +1,6 @@
 {
   "name": "popute-random-img",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "プテピピックの画像をランダムで取得",
   "main": "index.js",
   "scripts": {
