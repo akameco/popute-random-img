@@ -1,5 +1,7 @@
 # popute-random-img [![Build Status](https://travis-ci.org/akameco/popute-random-img.svg?branch=master)](https://travis-ci.org/akameco/popute-random-img)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/popute-random-img.svg)](https://greenkeeper.io/)
+
 > ポプテピピックの画像をランダムで取得
 
 ![screenshot](media/media.png)
