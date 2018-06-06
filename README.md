@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-$ npm install popute-random-img
+$ npm install -g popute-random-img
 ```
 
 ## CLI
