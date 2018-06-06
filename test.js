@@ -1,5 +1,5 @@
 import test from 'ava';
-import poputeRandomImg from './';
+import poputeRandomImg from '.';
 
 test('fetch', async t => {
 	const img = await poputeRandomImg();

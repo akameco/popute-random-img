@@ -14,14 +14,15 @@
   "license": "MIT",
   "dependencies": {
     "array-shuffle": "^1.0.1",
-    "cheerio": "^0.20.0",
-    "got": "^6.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "got": "^8.3.1",
     "popute": "^0.0.3",
-    "term-img": "^0.2.0"
+    "term-img": "^2.1.0"
   },
   "devDependencies": {
-    "ava": "^0.16.0",
-    "xo": "^0.16.0"
+    "ava": "^0.25.0",
+    "prettier": "^1.13.4",
+    "xo": "^0.21.1"
   },
   "repository": {
     "type": "git",
